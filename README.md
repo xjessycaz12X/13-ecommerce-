@@ -22,3 +22,5 @@ THEN I am able to successfully create, update, and delete data in my database
 # Links
 
 [GitHub](https://github.com/xjessycaz12X/13-ecommerce-)
+
+![video](https://drive.google.com/drive/folders/1T47mHkppsBOOfcvBLxeHSOQVpJR73qc1)
